@@ -1,0 +1,1385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Product",
+				"ProductForm"
+			],
+			[
+				"product",
+				"product_create_view"
+			],
+			[
+				"Pro",
+				"ProductForm"
+			],
+			[
+				"prod",
+				"product_detail_view"
+			],
+			[
+				"my",
+				"my_context"
+			],
+			[
+				"con",
+				"contact_view"
+			],
+			[
+				"home",
+				"home"
+			],
+			[
+				"filter",
+				"filtered_obj"
+			],
+			[
+				"hrr_not_",
+				"hrr_not_recorded_time"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"ac",
+				"activities_dic"
+			],
+			[
+				"ui_d",
+				"ui_data_keys_test"
+			],
+			[
+				"ui",
+				"ui_data"
+			],
+			[
+				"user",
+				"user_age"
+			],
+			[
+				"us",
+				"user_aa"
+			],
+			[
+				"da",
+				"data_id"
+			],
+			[
+				"AA",
+				"AA1"
+			],
+			[
+				"time",
+				"time_in_anaerobic"
+			],
+			[
+				"tim",
+				"time_in_anaerobic"
+			],
+			[
+				"time_in",
+				"time_in_below_aerobic"
+			],
+			[
+				"wor",
+				"workout_activities"
+			],
+			[
+				"fit",
+				"fitfiles_obj"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"a",
+				"activity_obj"
+			],
+			[
+				"appl",
+				"apple_total_steps"
+			],
+			[
+				"up",
+				"updated"
+			],
+			[
+				"dail",
+				"daily_total_steps"
+			],
+			[
+				"fr",
+				"from_date_str"
+			],
+			[
+				"fro",
+				"from_date"
+			],
+			[
+				"quick",
+				"quicklook"
+			],
+			[
+				"de",
+				"device"
+			],
+			[
+				"actt",
+				"activity_data"
+			],
+			[
+				"hrr",
+				"hrr_determined_activities"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"tr",
+				"target_date"
+			],
+			[
+				"ap",
+				"apple_token"
+			],
+			[
+				"fi",
+				"fitbit_activities"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"e",
+				"except"
+			],
+			[
+				"actti",
+				"activites"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"Ac",
+				"activity_data"
+			],
+			[
+				"to",
+				"todays_steps_data"
+			],
+			[
+				"t",
+				"todays_steps_data1"
+			],
+			[
+				"re",
+				"result_reponse"
+			],
+			[
+				"ga",
+				"garmin_activites"
+			],
+			[
+				"v",
+				"values"
+			],
+			[
+				"sin",
+				"single_activity"
+			],
+			[
+				"com",
+				"combined_user_activities"
+			],
+			[
+				"act",
+				"activity_data"
+			],
+			[
+				"activity",
+				"activity_data"
+			],
+			[
+				"ta",
+				"timestamp"
+			],
+			[
+				"app",
+				"apple_activities"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"upda",
+				"updated_data"
+			],
+			[
+				"Non",
+				"None"
+			],
+			[
+				"total",
+				"total_steps"
+			],
+			[
+				"get_ex",
+				"get_exercise_steps_apple"
+			],
+			[
+				"st",
+				"steps_data"
+			],
+			[
+				"ste",
+				"steps_total"
+			],
+			[
+				"res",
+				"result_list"
+			],
+			[
+				"tot",
+				"total_steps_apple"
+			],
+			[
+				"acti",
+				"activity_steps"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"toda",
+				"todays_activity_data"
+			],
+			[
+				"su",
+				"sum_steps"
+			],
+			[
+				"data",
+				"data_dict"
+			],
+			[
+				"dat",
+				"data_dict"
+			],
+			[
+				"rec",
+				"rec_chnge"
+			],
+			[
+				"De",
+				"Demopro"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"Demo",
+				"Demopro"
+			],
+			[
+				"D",
+				"DoesNotExist"
+			],
+			[
+				"ge",
+				"generic"
+			],
+			[
+				"jo",
+				"jobs"
+			],
+			[
+				"Jobs",
+				"Jobs_Portal"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"p",
+				"POST"
+			],
+			[
+				"me",
+				"messages"
+			],
+			[
+				"__",
+				"__all__"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"num",
+				"num_3"
+			],
+			[
+				"gra",
+				"grades"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"curr",
+				"current_date"
+			],
+			[
+				"end_",
+				"end_heartrate_activity"
+			],
+			[
+				"end",
+				"end_heartrate_activity"
+			],
+			[
+				"co",
+				"columns8w"
+			],
+			[
+				"i",
+				"i1"
+			],
+			[
+				"food",
+				"foodsheet"
+			],
+			[
+				"c",
+				"columns6"
+			],
+			[
+				"col",
+				"columns6W"
+			],
+			[
+				"column",
+				"columns6W"
+			],
+			[
+				"grade",
+				"grades_data"
+			],
+			[
+				"foo",
+				"food_data"
+			],
+			[
+				"col_n",
+				"col_num"
+			],
+			[
+				"shee",
+				"sheet5"
+			],
+			[
+				"aloc",
+				"alcohol"
+			],
+			[
+				"sheet",
+				"sheet9"
+			],
+			[
+				"col_",
+				"col_num2"
+			],
+			[
+				"cur",
+				"current_date"
+			],
+			[
+				"row",
+				"row_num"
+			],
+			[
+				"none",
+				"None"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"Ge",
+				"GET"
+			],
+			[
+				"al",
+				"alcoholsheet"
+			],
+			[
+				"cu",
+				"current_date"
+			],
+			[
+				"alo",
+				"alcohol"
+			],
+			[
+				"ma",
+				"main_alcohol"
+			],
+			[
+				"alc",
+				"alcohol"
+			],
+			[
+				"A",
+				"Alcohol"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"j",
+				"jobs"
+			],
+			[
+				"Jo",
+				"Jobs_Portal"
+			],
+			[
+				"jobs",
+				"JobsForm"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"Book",
+				"BookForm"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"r",
+				"reportcard"
+			],
+			[
+				"report",
+				"ReportViewSet"
+			],
+			[
+				"cl",
+				"class_name"
+			],
+			[
+				"create",
+				"CreateArticle"
+			],
+			[
+				"campus",
+				"Campus"
+			],
+			[
+				"campus_",
+				"campus_detail"
+			],
+			[
+				"ca",
+				"campus"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"staticfiles",
+				"staticfiles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/models.py",
+			"settings":
+			{
+				"buffer_size": 364,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/migrations/0001_initial.py",
+			"settings":
+			{
+				"buffer_size": 571,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/admin.py",
+			"settings":
+			{
+				"buffer_size": 121,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango/settings.py",
+			"settings":
+			{
+				"buffer_size": 3159,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/about.html",
+			"settings":
+			{
+				"buffer_size": 242,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/contact.html",
+			"settings":
+			{
+				"buffer_size": 56,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/pages/views.py",
+			"settings":
+			{
+				"buffer_size": 707,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 90,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/views.py",
+			"settings":
+			{
+				"buffer_size": 563,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/product/product_create.html",
+			"settings":
+			{
+				"buffer_size": 109,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "from django import forms\n\nfrom . models import Product \n\nclass ProductForm(forms.ModelForm):\n\tclass Meta:\n\t\tmodel = Product\n\t\tfields = [\n\t\t\t'title',\n\t\t\t'description',\n\t\t\t'price'\n\t\t]",
+			"file": "src/products/forms.py",
+			"file_size": 0,
+			"file_write_time": 132011543910567266,
+			"settings":
+			{
+				"buffer_size": 181,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/product/details.html",
+			"settings":
+			{
+				"buffer_size": 118,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\"\"\"trydjango URL Configuration\n\nThe `urlpatterns` list routes URLs to views. For more information please see:\n    https://docs.djangoproject.com/en/2.2/topics/http/urls/\nExamples:\nFunction views\n    1. Add an import:  from my_app import views\n    2. Add a URL to urlpatterns:  path('', views.home, name='home')\nClass-based views\n    1. Add an import:  from other_app.views import Home\n    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')\nIncluding another URLconf\n    1. Import the include() function: from django.urls import include, path\n    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))\n\"\"\"\nfrom django.contrib import admin\nfrom django.urls import path\n\nfrom pages.views import home_view, contact_view, about_view\nfrom products.views import product_detail_view, product_create_view\n\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('contact/', contact_view),\n    path('about/', about_view),\n    path('', home_view, name='home'),\n    path('create/', product_create_view),\n    path('product/', product_detail_view),\n]\n   ",
+			"file": "src/trydjango/urls.py",
+			"file_size": 1074,
+			"file_write_time": 132011575567446361,
+			"settings":
+			{
+				"buffer_size": 1074,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango/wsgi.py",
+			"settings":
+			{
+				"buffer_size": 395,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/norm/Dev/trydjango",
+		"/home/norm/Dev/trydjango/src",
+		"/home/norm/Dev/trydjango/src/products",
+		"/home/norm/Dev/trydjango/src/products/migrations",
+		"/home/norm/Dev/trydjango/src/templates",
+		"/home/norm/Dev/trydjango/src/templates/product",
+		"/home/norm/Dev/trydjango/src/trydjango"
+	],
+	"file_history":
+	[
+		"/home/norm/Dev/trydjango/lib/python3.5/site-packages/django/contrib/admin/static/admin/css/responsive.css",
+		"/home/norm/Dev/trydjango/src/templates/base.html",
+		"/home/norm/Dev/trydjango/src/trydjango/urls.py",
+		"/home/norm/jvb/healthtracker/quicklook/calculations/garmin_calculation.py",
+		"/home/norm/Desktop/Vikram/email_varification/email_stepup/email_stepup/settings.py",
+		"/home/norm/Desktop/Vikram/email_varification/email_stepup/emailapp/tokens.py",
+		"/home/norm/Desktop/Vikram/email_varification/email_stepup/emailapp/forms.py",
+		"/home/norm/jvb/healthtracker/jvbhw/Lib/site-packages/rest_framework/relations.py",
+		"/home/norm/jvb/healthtracker/quicklook/serializers.py",
+		"/home/norm/jvb/healthtracker/quicklook/calculations/fitbit_calculation.py",
+		"/home/norm/jvb/healthtracker/user_input/views/garmin_views.py",
+		"/home/norm/jvb/healthtracker/hrr/signals.py",
+		"/home/norm/jvb/healthtracker/apple/models.py",
+		"/home/norm/jvb/healthtracker/apple/admin.py",
+		"/home/norm/jvb/healthtracker/quicklook/calculations/apple_calculation.py",
+		"/home/norm/jvb/healthtracker/quicklook/calculations/converter/apple_to_garmin_converter.py",
+		"/home/norm/jvb/healthtracker/quicklook/calculations/calculation_driver.py",
+		"/home/norm/jvb/healthtracker/hrr/tasks.py",
+		"/home/norm/jvb/healthtracker/quicklook/tasks.py",
+		"/home/norm/jvb/healthtracker/hrr/models.py",
+		"/home/norm/jvb/healthtracker/hrr/views.py",
+		"/home/norm/jvb/healthtracker/hrr/admin.py",
+		"/home/norm/jvb/healthtracker/apple/signals.py",
+		"/home/norm/jvb/healthtracker/jvbhw/Lib/site-packages/celery/utils/log.py",
+		"/home/norm/jvb/healthtracker/apple/serializers.py",
+		"/home/norm/jvb/healthtracker/user_input/models.py",
+		"/home/norm/jvb/healthtracker/quicklook/views.py",
+		"/home/norm/jvb/healthtracker/fitbit/tasks.py",
+		"/home/norm/jvb/healthtracker/fitbit/fitbit_push.py",
+		"/home/norm/jvb/healthtracker/progress_analyzer/tasks.py",
+		"/home/norm/jvb/healthtracker/progress_analyzer/helpers/cumulative_helper.py",
+		"/home/norm/jvb/healthtracker/user_input/custom_signals.py",
+		"/home/norm/jvb/healthtracker/apple/task.py",
+		"/home/norm/jvb/healthtracker/user_input/serializers.py",
+		"/home/norm/jvb/healthtracker/node_modules/node-gyp/gyp/pylib/gyp/simple_copy.py",
+		"/home/norm/jvb/healthtracker/fitbit/models.py",
+		"/home/norm/jvb/healthtracker/hrr/fitbit_aa.py",
+		"/home/norm/jvb/healthtracker/jvbhw/Lib/site-packages/IPython/utils/ipstruct.py",
+		"/home/norm/jvb/healthtracker/quicklook/calculations/converter/fitbit_to_garmin_converter.py",
+		"/home/norm/jvb/healthtracker/apple/views.py",
+		"/home/norm/jvb/healthtracker/manage.py",
+		"/home/norm/jvb/healthtracker/webpack-stats.json",
+		"/home/norm/jvb/healthtracker/jvbhealthwellness/settings/base.py",
+		"/home/norm/jvb/healthtracker/requirements.txt",
+		"/home/norm/Desktop/json_data.json",
+		"/home/norm/jvb/healthtracker/file.py",
+		"/home/norm/demo/demo/demoapp/templates/index.html",
+		"/home/norm/demo/demo/demoapp/static/css/styles.css",
+		"/home/norm/demo/demo/demoapp/static/js/script.js",
+		"/home/norm/Desktop/Vikram/abl_project/abl_project/settings.py",
+		"/home/norm/Desktop/Vikram/abl_project/abl/views.py",
+		"/home/norm/Desktop/Vikram/abl_project/abl/urls.py",
+		"/home/norm/Desktop/Vikram/abl_project/abl_project/urls.py",
+		"/home/norm/Desktop/navya/abl-master/abl/lib/python2.7/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/jquery.js",
+		"/home/norm/Desktop/navya/abl-master/abl/lib/python2.7/site-packages/django/views/generic/base.py",
+		"/home/norm/Desktop/navya/abl-master/articles/templates/articles/jobs.html",
+		"/home/norm/Desktop/navya/abl-master/templates/base.html",
+		"/home/norm/Desktop/navya/abl-master/articles/urls.py",
+		"/home/norm/Desktop/navya/abl-master/articles/views.py",
+		"/home/norm/Desktop/navya/abl-master/articles/forms.py",
+		"/home/norm/Desktop/navya/abl-master/djangonautic/settings.py",
+		"/home/norm/Desktop/navya/abl-master/accounts/views.py",
+		"/home/norm/Desktop/navya/abl-master/accounts/templates/accounts/login.html",
+		"/home/norm/Desktop/navya/abl-master/articles/templates/articles/cources.html",
+		"/home/norm/Desktop/navya/abl-master/articles/templates/articles/contactus.html",
+		"/home/norm/Desktop/navya/abl-master/articles/models.py",
+		"/home/norm/Desktop/navya/abl-master/articles/templates/contact_template.txt",
+		"/home/norm/Desktop/navya/abl-master/abl/lib/python2.7/site-packages/django/contrib/messages/context_processors.py",
+		"/home/norm/Desktop/navya/abl-master/djangonautic/urls.py",
+		"/home/norm/Desktop/navya/abl-master/articles/admin.py",
+		"/home/norm/jvb/healthtracker/templates/base.html",
+		"/home/norm/Desktop/navya/abl-master/static/styles.css",
+		"/home/norm/Desktop/navya/ablproject/ablproject/urls.py",
+		"/home/norm/Desktop/navya/ablproject/ablapp/templates/base.html",
+		"/home/norm/Desktop/navya/ablproject/ablapp/templates/jobs.html",
+		"/home/norm/Desktop/navya/my_proj/books/templates/book_form.html",
+		"/home/norm/Desktop/navya/my_proj/books/templates/book_detail.html",
+		"/home/norm/Desktop/navya/my_proj/books/templates/book_list.html",
+		"/home/norm/Desktop/navya/loginpro/loginpro/settings.py",
+		"/home/norm/Desktop/navya/loginpro/loginapp/template/loginpage.html",
+		"/home/norm/Desktop/navya/loginpro/loginapp/views.py",
+		"/home/norm/Desktop/navya/loginpro/loginpro/urls.py",
+		"/home/norm/Desktop/navya/college/campus/templates/campus/campus_list.html",
+		"/home/norm/Desktop/navya/logo.jpg",
+		"/home/norm/Desktop/navya/ablproject/ablapp/models.py",
+		"/home/norm/Desktop/navya/ablproject/ablapp/templates/registration/login.html",
+		"/home/norm/Desktop/navya/ablproject/ablapp/views.py",
+		"/home/norm/Desktop/navya/ablproject/ablproject/settings.py",
+		"/home/norm/Desktop/navya/ablproject/ablapp/templates/registration/signup.html",
+		"/home/norm/Desktop/navya/ablproject/ablapp/static/styles.css",
+		"/home/norm/Desktop/navya/ablproject/ablapp/templates/signup.html",
+		"/home/norm/Desktop/navya/college/campus/urls.py",
+		"/home/norm/Desktop/navya/college/college/settings.py",
+		"/home/norm/Desktop/navya/college/college/templates/base_layout.html",
+		"/home/norm/Desktop/navya/college/college/assets/styles.css",
+		"/home/norm/Desktop/navya/college/campus/views.py",
+		"/home/norm/Desktop/navya/college/accounts/templates/accounts/signup.html",
+		"/home/norm/Desktop/navya/college/campus/templates/campus/forms.py",
+		"/home/norm/Desktop/navya/college/campus/templates/campus/campus_create.html",
+		"/home/norm/Desktop/navya/college/campus/templates/accounts/signup.html",
+		"/home/norm/Desktop/navya/college/accounts/urls.py",
+		"/home/norm/Desktop/navya/college/college/urls.py",
+		"/home/norm/Desktop/navya/college/accounts/views.py",
+		"/home/norm/Desktop/navya/college/campus/templates/accounts/login.html",
+		"/home/norm/Desktop/navya/college/campus/templates/campus/campus_details.html",
+		"/home/norm/Desktop/navya/college/campus/campus_detail.html",
+		"/home/norm/Desktop/navya/college/campus/templates/campus_list index.html",
+		"/home/norm/Desktop/navya/college/campus/assets/style.css",
+		"/home/norm/Desktop/navya/college/campus/models.py",
+		"/home/norm/Desktop/navya/college/college/assets/style.css",
+		"/home/norm/Desktop/navya/college/college/assets/logo.png",
+		"/home/norm/Desktop/navya/college/college/assets/stars.png",
+		"/home/norm/Desktop/navya/college/campus/admin.py",
+		"/home/norm/Desktop/navya/college/campus/migrations/0001_initial.py",
+		"/home/norm/Desktop/navya/college/college/templates/homepage.html",
+		"/home/norm/Desktop/navya/college/college/templates/about.html",
+		"/home/norm/Desktop/navya/college/manage.py",
+		"/home/norm/Desktop/navya/college/college/templates/homepage",
+		"/home/norm/Desktop/tutorial/snippets/urls.py",
+		"/home/norm/Desktop/tutorial/tutorial/urls.py",
+		"/home/norm/Desktop/tutorial/snippets/permissions.py",
+		"/home/norm/Desktop/tutorial/snippets/admin.py",
+		"/home/norm/Desktop/tutorial/snippets/views.py",
+		"/home/norm/Desktop/tutorial/snippets/serializers.py",
+		"/home/norm/Desktop/tutorial/tutorial/settings.py",
+		"/home/norm/Desktop/djangoproject/crudproject/employee/models.py",
+		"/home/norm/Desktop/djangoproject/crudproject/employee/templates/edit",
+		"/home/norm/Desktop/djangoproject/crudproject/employee/templates/show"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 167.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/products/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/products/migrations/0001_initial.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/products/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 121.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/trydjango/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2063,
+								2063
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 960.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/templates/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/templates/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/pages/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/products/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/templates/product/product_create.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/products/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/templates/product/details.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "src/trydjango/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1023,
+								1023
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "src/trydjango/wsgi.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

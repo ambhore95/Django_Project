@@ -1,0 +1,16 @@
+<h1> Hellow About</h1>
+<p1> This is a Templates </p1>
+<p>
+	{{ my_text}}, {{ my_number }}
+	{{ my_list }}
+</p>
+
+<ul>
+	<li>item 1</li>
+	<li>item 2</li>
+</ul>
+<ul>
+	{% for my_sub_item in my_list %}
+	<li>{{ my_sub_item }}</li>
+	{% endfor %}
+</ul>
